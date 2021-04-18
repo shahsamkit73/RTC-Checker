@@ -24,5 +24,11 @@ Industrial prototypes typically contain legion electronics components. The failu
 <p align="center">
   <img width="1000" height="600" src="https://user-images.githubusercontent.com/43854300/115139563-1da34800-a050-11eb-9e46-a1bfd8524f8d.PNG"
 </p>
-  
+
+### How to convert image to Bitmap HEX code :
+1. Click on the [image2cpp](https://diyusthad.com/image2cpp) button and open the application in a new tab.
+2. Choose image file
+3. Set image setting (**_Canvas Size, Brightness Threshold, Scaling_**)
+4. Generate output and paste the HEX code in your code
+
 **IMPORTANT: If more than one I2C suppoted modules are used then `I2C protocol address` should not be same.**
