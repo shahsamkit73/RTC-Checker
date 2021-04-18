@@ -1,6 +1,6 @@
 # RTC-Checker
 
-Industrial prototypes typically contain legion electronics components. The failure mode of these components often happens in the circuits. However, in some case, these failure switching causes safely hazard. So, it is very essential to understand the behaviour of component to design the mechanism safe, reliant and durable. The prime idea of this project is to focus on the debacle of DS1307 RTC, memory based IC, failure mode before placing /soldering in the PCB circuit.
+Industrial prototypes typically contain legion electronics components. The failure mode of these components often happens in the circuits. However, in some case, these failure switching causes safely hazard. So, it is very essential to understand the behaviour of component to design the mechanism safe, reliant and durable. The prime idea of this project is to focus on the debacle detection of DS1307 RTC, a memory based IC, before placing /soldering in the PCB circuit.
 
 ### Dependencies & Libraries ###
 * #### ESP32 IoT Development Board
