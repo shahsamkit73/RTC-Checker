@@ -22,7 +22,7 @@ Industrial prototypes typically contain legion electronics components. The failu
 ### Circuit Connection ###
 
 <p align="center">
-  <img width="1000" height="600" src="https://user-images.githubusercontent.com/43854300/116803966-c1085880-ab38-11eb-9499-056471d8a73c.JPG"
+  <img width="1000" height="575" src="https://user-images.githubusercontent.com/43854300/116803966-c1085880-ab38-11eb-9499-056471d8a73c.JPG"
 </p>
 
 ### How to convert image to Bitmap HEX code :
